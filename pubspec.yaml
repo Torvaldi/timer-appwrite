@@ -1,5 +1,5 @@
-name: appwrite_flutter_starter_kit
-description: "Appwrite StarterKit in Flutter"
+name: timer_appwrite
+description: "Une application d'assistance qui compte le temps passé par tâche et par projet"
 publish_to: 'none'
 
 version: 1.0.0
@@ -16,6 +16,7 @@ dependencies:
   url_launcher: ^6.3.1
   window_manager: ^0.4.3
   cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.6.1
 
 dependency_overrides:
   flutter_web_auth_2: 4.1.0
