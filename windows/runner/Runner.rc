@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "io.appwrite" "\0"
-            VALUE "FileDescription", "AppwriteStarterKit" "\0"
+            VALUE "FileDescription", "Timer" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "AppwriteStarterKit" "\0"
+            VALUE "InternalName", "Timer" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 io.appwrite. All rights reserved." "\0"
-            VALUE "OriginalFilename", "AppwriteStarterKit.exe" "\0"
-            VALUE "ProductName", "AppwriteStarterKit" "\0"
+            VALUE "OriginalFilename", "Timer.exe" "\0"
+            VALUE "ProductName", "Timer" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
